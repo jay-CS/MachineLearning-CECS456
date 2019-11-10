@@ -25,7 +25,7 @@ Notes: Do not change anything in 'main.py' and 'helper,py' files. Only try to ad
 
 Submitting requirements
 -----------------------
-Please submit a write-up to briefly report your results and the ‘solution.py’ file to the BeachBoard.
+Please submit a write-up to briefly report your results and the ‘solution.py’.
 
 
 
